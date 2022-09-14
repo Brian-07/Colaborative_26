@@ -1,3 +1,12 @@
 body{
     background: #BDBDBD;
 }
+
+.img-background-landing{
+    background-image: url("/website/assets/img/bg.jpg");
+ background-color: #cccccc;
+ height: 700px;
+ width: 100%;
+ background-position: center;
+ background-size: 100% 100%;
+}
